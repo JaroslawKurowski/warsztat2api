@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "warsztat2api", "warsztat2api\warsztat2api.csproj", "{53CB9AFA-0E14-4F46-AF8E-66999CB2C09A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "warsztat2api.Tests", "warsztat2api.Tests\warsztat2api.Tests.csproj", "{B3D4FC2A-9DAC-4182-8F74-56B06A4E9CC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53CB9AFA-0E14-4F46-AF8E-66999CB2C09A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CB9AFA-0E14-4F46-AF8E-66999CB2C09A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CB9AFA-0E14-4F46-AF8E-66999CB2C09A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CB9AFA-0E14-4F46-AF8E-66999CB2C09A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D4FC2A-9DAC-4182-8F74-56B06A4E9CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D4FC2A-9DAC-4182-8F74-56B06A4E9CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D4FC2A-9DAC-4182-8F74-56B06A4E9CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D4FC2A-9DAC-4182-8F74-56B06A4E9CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05596EBD-85EC-45B3-BC07-86BB9C35E7C8}
+	EndGlobalSection
+EndGlobal
